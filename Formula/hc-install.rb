@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 class HcInstall < Formula
   desc "hc-install CLI"
   homepage "https://github.com/hashicorp/hc-install"
